@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.template
+.medusa
+node_modules
+data
+curl_output.json
+tsc_errors.txt
+tsc_widget_errors.txt
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
